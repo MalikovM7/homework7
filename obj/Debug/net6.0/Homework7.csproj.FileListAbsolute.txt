@@ -1,0 +1,14 @@
+C:\Users\vuqar\Desktop\Solutions\Homework7\bin\Debug\net6.0\Homework7.exe
+C:\Users\vuqar\Desktop\Solutions\Homework7\bin\Debug\net6.0\Homework7.deps.json
+C:\Users\vuqar\Desktop\Solutions\Homework7\bin\Debug\net6.0\Homework7.runtimeconfig.json
+C:\Users\vuqar\Desktop\Solutions\Homework7\bin\Debug\net6.0\Homework7.dll
+C:\Users\vuqar\Desktop\Solutions\Homework7\bin\Debug\net6.0\Homework7.pdb
+C:\Users\vuqar\Desktop\Solutions\Homework7\obj\Debug\net6.0\Homework7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqar\Desktop\Solutions\Homework7\obj\Debug\net6.0\Homework7.AssemblyInfoInputs.cache
+C:\Users\vuqar\Desktop\Solutions\Homework7\obj\Debug\net6.0\Homework7.AssemblyInfo.cs
+C:\Users\vuqar\Desktop\Solutions\Homework7\obj\Debug\net6.0\Homework7.csproj.CoreCompileInputs.cache
+C:\Users\vuqar\Desktop\Solutions\Homework7\obj\Debug\net6.0\Homework7.dll
+C:\Users\vuqar\Desktop\Solutions\Homework7\obj\Debug\net6.0\refint\Homework7.dll
+C:\Users\vuqar\Desktop\Solutions\Homework7\obj\Debug\net6.0\Homework7.pdb
+C:\Users\vuqar\Desktop\Solutions\Homework7\obj\Debug\net6.0\Homework7.genruntimeconfig.cache
+C:\Users\vuqar\Desktop\Solutions\Homework7\obj\Debug\net6.0\ref\Homework7.dll
